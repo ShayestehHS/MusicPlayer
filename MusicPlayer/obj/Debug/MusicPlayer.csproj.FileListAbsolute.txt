@@ -1,0 +1,15 @@
+F:\computer\Projects\C#\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+F:\computer\Projects\C#\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+F:\computer\Projects\C#\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+F:\computer\Projects\C#\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+F:\computer\Projects\C#\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+F:\computer\Projects\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+F:\computer\Projects\C#\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+F:\computer\Projects\C#\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+F:\computer\Projects\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+F:\computer\Projects\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+F:\computer\Projects\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+F:\computer\Projects\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+F:\computer\Projects\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+F:\computer\Projects\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+F:\computer\Projects\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.frmMP.resources
