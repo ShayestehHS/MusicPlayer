@@ -42,21 +42,22 @@ namespace MusicPlayer
                     {
                         MessageBox.Show("Please select a music that doesnt contain '_____'");
                     }
-                    else {
+                    else
+                    {
+                        listName.Items.Add("");
                         listName.Items.Add(FileName[i]);
                         listName.Items.Add("________________________________");
                     }
-
                 }
             }
         }
 
         private void listName_SelectedIndexChanged(object sender, EventArgs e)
         {
-            //Selected Path ===> SelPath
-            string SelPath = Path[listName.SelectedIndex];
-            if (File.Exists(SelPath))
+            //Check that selected item is music or not
+            if ((listName.SelectedIndex - 1) % 3 == 0)
             {
+                string SelPath = Path[(listName.SelectedIndex - 1) / 3];
                 axWMP.URL = SelPath;
             }
         }
